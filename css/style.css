@@ -1,0 +1,20 @@
+.fz150{
+    font-size: 150px;
+    color: #fff;
+}
+.fz80{
+    font-size: 60px;
+}
+.title6{
+    color: #fff;
+    font-size: 30px;
+}
+.gateway{
+    background: url(../img/timmer.jpg) no-repeat;
+    background-size: cover;
+    font-size: 0;
+    box-sizing: border-box;
+    width: 720px;
+    height: 313px;
+    margin: 0 auto;
+}
